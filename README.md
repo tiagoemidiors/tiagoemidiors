@@ -11,9 +11,8 @@
 
 ##
 <div>
-  <a href="">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=tiagoemidiors&theme=gotham&show_icons=true">
-  <img height = "180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoemidiors&layout=compact&theme=gotham&show_icons=true&langs_count=4"/>
+  <img height = "180em" widht ="50%" src = "https://github-readme-stats.vercel.app/api?username=tiagoemidiors&theme=gotham&show_icons=true">
+  <img height = "180em" widht ="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoemidiors&layout=compact&theme=gotham&show_icons=true&langs_count=4"/>
 </div>
 
 ##
