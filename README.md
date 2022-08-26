@@ -4,10 +4,9 @@
 
 ##
 
-- 🔭 Hoje eu trabalho com matemática
+- 🔭 Hoje eu trabalho como professor de matemática
 - 🌱 Estudando JavaScript/Python
 - 📫 Contate-me no email: tiagoemidiors@gmail.com
-- 😄 Pronomes: ele/dele
 
 ##
 <div>
