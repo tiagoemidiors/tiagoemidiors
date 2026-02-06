@@ -9,12 +9,6 @@
 - 📫 Contate-me no email: tiagoemidiors@gmail.com
 
 ##
-<div>
-  <img height = "180em" width ="48%" src = "https://github-readme-stats.vercel.app/api?username=tiagoemidiors&theme=gotham&show_icons=true">
-  <img height = "180em" width ="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoemidiors&layout=compact&theme=gotham&show_icons=true&langs_count=4"/>
-</div>
-
-##
 
 <div style"display: inline-block"><br>
   <img align="center" alt="Tiago-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
